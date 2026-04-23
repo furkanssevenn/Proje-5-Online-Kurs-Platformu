@@ -24,7 +24,6 @@ Proje/
 
 ## Dashboard
 
-- "İyi günler, [ad]!" kartı **sade koyu arka plan** (renk karışıklığı yok)
 - Sol kenarda mor-mavi dikey vurgu çizgisi
 - 4 istatistik kartı (renkli üst şerit)
 - Tam genişlik İstanbul haritası
