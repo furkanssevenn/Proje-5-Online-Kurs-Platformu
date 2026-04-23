@@ -20,24 +20,7 @@ Proje/
 └── kurs_platformu.db   # SQLite (otomatik)
 ```
 
-## Seven YZ — Wireframe Hologram İnsan Yüzü
 
-AI filmindeki David kafası tarzında, anatomik orantılı mavi hologram yüz:
-
-- Gerçekçi insan kafası (elips + sivri çene)
-- **Gözler** — beyaz + mavi iris + pupil + parlama (nefes alır)
-- **Burun** — köprü + yuvarlak uç + delikler
-- **Ağız** — konuşurken açılır (dudaklar + dişler + iç karanlık)
-- **Kaşlar** — eğrisel
-- **Kulaklar** — 2 yanda
-- **Boyun** — gradient
-- **Wireframe ağ** — 8 yatay + 5 dikey yüzey çizgisi (3B eğrilik)
-- **Braille dot grid** — arkada kabartmalı noktalar
-- **Elektrik arkları** — 8 adet animasyonlu zigzag
-- **Merkez glow** — pulse eden ışıltı halesi
-- **Hareketli tarama çizgisi** — yukarıdan aşağıya
-- Hafif baş sallanışı (yaw)
-- HUD: SEVEN.AI v3.0 / DURUM / SYNC %
 
 ## Dashboard
 
@@ -48,14 +31,9 @@ AI filmindeki David kafası tarzında, anatomik orantılı mavi hologram yüz:
 - Halka doluluk + animasyonlu çubuk grafik
 - Hızlı işlemler + son aktiviteler
 
-## 4 Aşamalı Türkçe Konuşma (pyttsx3)
 
-1. **"Merhaba."**
-2. **"Ben Seven."**
-3. **"ByTeach yapay zeka yardımcınızım."**
-4. **"Sizinle tanışmaktan büyük mutluluk duydum."**
 
-Her cümlede ağız hareket eder, sesli konuşmayla senkron.
+
 
 ## Özellikler
 
