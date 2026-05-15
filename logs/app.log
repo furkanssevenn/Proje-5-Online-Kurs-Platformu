@@ -1,0 +1,10 @@
+2026-04-30 15:10:31,726 [INFO] seed: Demo verisi oluşturuluyor...
+2026-04-30 15:10:32,346 [INFO] seed: Demo verisi yüklendi: 6 kullanıcı, 7 kurs.
+2026-04-30 15:10:42,163 [INFO] main: Oturum açıldı: admin (admin)
+2026-04-30 15:11:12,972 [INFO] main: Logout — yeniden login ekranına dönülüyor.
+2026-04-30 15:11:15,683 [INFO] main: Oturum açıldı: ahmet (egitmen)
+2026-04-30 15:11:46,366 [INFO] main: Logout — yeniden login ekranına dönülüyor.
+2026-04-30 15:11:48,604 [INFO] main: Oturum açıldı: ayse (ogrenci)
+2026-04-30 15:12:05,501 [INFO] main: Uygulama kapatıldı (kod 0).
+2026-04-30 15:13:18,047 [INFO] main: Oturum açıldı: admin (admin)
+2026-04-30 15:13:46,280 [INFO] main: Uygulama kapatıldı (kod 0).
